@@ -7,7 +7,7 @@ This is a simple Python command-line number guessing game. The program randomly 
 <h2>Features</h2>
 
 - <b>Randomly generates a number between 1 and 100</b> 
-- <b>Gives feedback after each guess:</b>
+- <b>Gives feedback after each guess</b>
 - <b>Handles invalid input (non-numbers or out-of-range guesses)</b>
 - <b>Loop continues until the user guesses the correct number</b>
 
